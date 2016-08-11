@@ -1,6 +1,23 @@
-div{
-	background-color:green;
-	height:100px;
-	width:100px;
+.square{
 	display:inline-block;
+	border: 2px solid;
+    background-color: white;
+	height:30px;
+	width:30px;
+    margin: 1px;
+    padding: 0px;
+
+}
+.container{
+	
+	width:100%
+	height:auto;
+}
+
+.highlight{
+    background-color: black;
+}
+
+#clearButton{
+    
 }
